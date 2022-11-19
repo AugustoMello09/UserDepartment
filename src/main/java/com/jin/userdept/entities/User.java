@@ -11,7 +11,7 @@ import javax.persistence.ManyToOne;
 import javax.persistence.Table;
 
 @Entity
-@Table(name="tb_user")
+@Table(name= "tb_user")
 public class User {
 	
 	@Id
@@ -23,7 +23,7 @@ public class User {
 	private String email;
 
 	@ManyToOne
-	@JoinColumn(name="department_id")
+	@JoinColumn(name= "department_id")
 	private Department department;
 	
 	public User() {
