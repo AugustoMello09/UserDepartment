@@ -20,7 +20,7 @@ Vamos construir um pequeno sistema (API REST) de usuários e departamentos, com 
 
 ![tb](https://user-images.githubusercontent.com/101072311/202868670-4a1cdacc-7b38-4c6b-836f-b4d18cf34013.png)
 
-## Ferramentas e Tecnologias usadas nesse repositório 🧱
+### Ferramentas e Tecnologias usadas nesse repositório 🧱
 <div style="display: inline_block"><br>
 
 <img align="center" alt="Augusto-Java" height="60" width="60" src=https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg >
@@ -29,7 +29,7 @@ Vamos construir um pequeno sistema (API REST) de usuários e departamentos, com 
 
 </div>    
 
-## Teste o projeto 👁‍🗨
+### Teste o projeto 👁‍🗨
 
 Download do projeto para testar em sua máquina: https://github.com/AugustoMello09/UserDepartment/archive/refs/heads/main.zip
 
